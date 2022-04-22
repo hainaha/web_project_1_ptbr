@@ -283,20 +283,20 @@
   color: white;
 }
 
-.footer__columns {
+.footer__column {
   display: flex;
   width: 90%;
   justify-content: space-between;
 }
 
-.footer__columns_content_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.footer__columns_content_about, .footer__columns_content_social {
+.footer__column_content_about, .footer__column_content_social {
   margin: 0;
 }
 
