@@ -290,6 +290,7 @@
 }
 
 .footer__column_content_copyright {
+  width: auto;
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
@@ -297,6 +298,9 @@
 }
 
 .footer__column_content_about, .footer__column_content_social {
+  width: auto;
+  flex-direction: column;
+  justify-content: flex-start;
   margin: 0;
 }
 
@@ -323,6 +327,7 @@
 .footer__list {
   list-style-type: none;
   padding: 0;
+  margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
