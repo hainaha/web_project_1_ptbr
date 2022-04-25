@@ -1,0 +1,13 @@
+.header__link a {
+  text-decoration: none;
+  width: 388px;
+  position: absolute;
+  z-index: 1;
+  bottom: 30px;
+  left: 64px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+  color: #2f80ed;
+}
