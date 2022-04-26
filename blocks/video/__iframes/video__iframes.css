@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 50px;
-  height: 266px;
+  margin: auto;
+  /*O brief pede para que o video invada o próximo bloco, por isso coloquei a altura, caso tenha uma solução melhor, por favor sugira, obrigada.*/
+  height: 316px;
 }

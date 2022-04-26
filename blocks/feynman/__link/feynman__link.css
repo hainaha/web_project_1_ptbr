@@ -9,3 +9,7 @@
   margin: 0;
   color: #2f80ed;
 }
+
+.feynman__link a:hover {
+  opacity: 70%;
+}
