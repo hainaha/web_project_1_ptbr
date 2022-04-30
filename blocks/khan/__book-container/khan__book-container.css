@@ -1,5 +1,12 @@
 .khan__book-container {
   display: flex;
-  width: 100%;
-  margin: auto;
+  /*O brief pede width de 80% e margin 0 auto para o container geral, que está
+  na classe khan__container. Eu só acrescentei essas duas propriedades aqui nesta
+  classe porque você pediu na primeira revisão, mas na minha opinião, elas não
+  deveriam estar aqui. Vou colocar aqui como você pediu para que veja como vai ficar
+  diferente do brief, o container vai ficar centralizado, sendo que no brief ele
+  aparece alinhado à esquerda. Peço que reavalie e se eu estiver equivocada, me
+  explique, por favor.*/
+  width: 80%;
+  margin: 0 auto;
 }
